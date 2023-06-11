@@ -1,4 +1,2 @@
-# README
---- AGREGANDO CUALQUIER COSA ACA
---- OTRA COSA LLEVA A LA OTRA
---- VAMOS A VER SI AHORA VA
+## README
+Project for Chatbot(OpenIA) in Rust. Only for test cases.
